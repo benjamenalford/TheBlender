@@ -1,0 +1,6 @@
+setup
+
+git init
+touch .gitignore
+touch keys.txt
+dotnet new console
